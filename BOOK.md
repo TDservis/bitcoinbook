@@ -1,4 +1,4 @@
-# Mastering Bitcoin: Programming the Open Blockchain (3rd Edition)
+# Mastering Bitcoin: Programming the Open Blockchain
 
 _By Andreas M. Antonopoulos and David A. Harding_
 
